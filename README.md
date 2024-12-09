@@ -1,4 +1,4 @@
-# wp-employees-customblock
+# employees-block
 
 A Gutenberg Custom Block displaying information for employees in a different countries. 
 
