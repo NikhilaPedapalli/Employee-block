@@ -4,7 +4,7 @@ A Gutenberg Custom Block displaying information for employees in a different cou
 
 The data and images for this block are inputed in a custom post named **Employees**. This data then shows up in Gutenburg when the Employees Block is selected.
 
-![Demo](assets/employee-demo.gif)
+![Demo](employee-demo.gif)
 
 ## Prerequisites
 
